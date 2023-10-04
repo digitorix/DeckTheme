@@ -1,0 +1,9 @@
+{
+  "name": "Love Live - Rina Tennoji Menu",
+  "description": "Theme menu of Rina Tennoji from Love Live! SIFAS",
+  "author": "digitorix",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
